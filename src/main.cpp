@@ -110,15 +110,15 @@ int main()
             std::cout << "- Integrantes do Grupo -" << std::endl;
             std::cout << std::endl;
             Pausar();
-            std::cout << "Ana Clara Branquinho" << std::endl;
+            std::cout << "" << std::endl;
             Pausar();
-            std::cout << "Pedro Martins de Souza" << std::endl;
+            std::cout << "" << std::endl;
             Pausar();
-            std::cout << "Gustavo Chaves Maciel" << std::endl;
+            std::cout << "" << std::endl;
             Pausar();
-            std::cout << "Mariana Mattos Olivera" << std::endl;
+            std::cout << "" << std::endl;
             Pausar();
-            std::cout << "Rafael Pessoa Rosa" << std::endl;
+            std::cout << "" << std::endl;
             Pausar();
             Pausar();
 
