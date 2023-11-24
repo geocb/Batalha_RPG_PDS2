@@ -110,16 +110,17 @@ int main()
             std::cout << "- Integrantes do Grupo -" << std::endl;
             std::cout << std::endl;
             Pausar();
-            std::cout << "" << std::endl;
+            std::cout << "Bernardo Monteiro Cançado" << std::endl;
             Pausar();
-            std::cout << "" << std::endl;
+            std::cout << "Filipe de Souza Lopes Fittipaldi" << std::endl;
             Pausar();
-            std::cout << "" << std::endl;
+            std::cout << "Geovanna Cardoso Brito" << std::endl;
             Pausar();
-            std::cout << "" << std::endl;
+            std::cout << "João Pedro Sampaio Barroso" << std::endl;
             Pausar();
-            std::cout << "" << std::endl;
+            std::cout << "Marcos Botelho Pereira" << std::endl;
             Pausar();
+            std::cout << "Victor Oliveira Gonçalves" << std::endl;
             Pausar();
 
             std::cout << "Aperte qualquer tecla para retornar" << std::endl;
